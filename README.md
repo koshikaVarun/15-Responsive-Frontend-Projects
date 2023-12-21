@@ -1,2 +1,2 @@
-# 50-Responsive-Frontend-Prjects
+# 50-Responsive-Frontend-Projects
 These are the beginner level projects 
